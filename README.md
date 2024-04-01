@@ -20,7 +20,7 @@ Profesor: Juan Carlos Tinoco Licas
 |            Nombre            |   Codigo   |
 |            Nombre            |   Codigo   |
 |            Nombre            |   Codigo   |
-|            Nombre            |   Codigo   |
+| Mancilla Ordaya, Eduardo Vicente | U202018894 |
 | Cisneros Tafur, Diego Rafael | U20221A715 |
 
 </div>

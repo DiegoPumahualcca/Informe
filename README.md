@@ -15,6 +15,10 @@ Sección: SW52
 
 Profesor: Juan Carlos Tinoco Licas
 
+Startup:
+
+Producto:
+
 |         Integrantes          |   Código   |
 | :--------------------------: | :--------: |
 |            Nombre            |   Codigo   |

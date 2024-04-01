@@ -150,3 +150,11 @@ URL Project Report (Github): https://github.com/AgriSage/Informe
 - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+
+# **Capítulo I: Introducción**
+
+  1.1  Startup Profile.
+   
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+
+   **1.1.1. Descripción del startup.**

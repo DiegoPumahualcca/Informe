@@ -19,13 +19,13 @@ Startup:
 
 Producto:
 
-|         Integrantes          |   Código   |
-| :--------------------------: | :--------: |
-|            Luis Angel Anampa Lavado            |   u202218664   |
-|            Nombre            |   Codigo   |
-|            Nombre            |   Codigo   |
+|           Integrantes            |   Código   |
+| :------------------------------: | :--------: |
+|     Luis Angel Anampa Lavado     | u202218664 |
+|              Nombre              |   Codigo   |
+| Alexander Paolo Justo Yauricasa  | U20191C054 |
 | Mancilla Ordaya, Eduardo Vicente | U202018894 |
-| Cisneros Tafur, Diego Rafael | U20221A715 |
+|   Cisneros Tafur, Diego Rafael   | U20221A715 |
 
 </div>
 

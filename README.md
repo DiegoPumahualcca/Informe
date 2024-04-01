@@ -17,7 +17,7 @@ Profesor: Juan Carlos Tinoco Licas
 
 |         Integrantes          |   Código   |
 | :--------------------------: | :--------: |
-|            Nombre            |   Codigo   |
+|            Luis Angel Anampa Lavado            |   u202218664   |
 |            Nombre            |   Codigo   |
 |            Nombre            |   Codigo   |
 | Mancilla Ordaya, Eduardo Vicente | U202018894 |

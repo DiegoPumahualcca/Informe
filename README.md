@@ -15,13 +15,17 @@ Sección: SW52
 
 Profesor: Juan Carlos Tinoco Licas
 
-|         Integrantes          |   Código   |
-| :--------------------------: | :--------: |
-|            Luis Angel Anampa Lavado            |   u202218664   |
-|            Nombre            |   Codigo   |
-|            Nombre            |   Codigo   |
+Startup:
+
+Producto:
+
+|           Integrantes            |   Código   |
+| :------------------------------: | :--------: |
+|     Luis Angel Anampa Lavado     | u202218664 |
+|              Nombre              |   Codigo   |
+| Alexander Paolo Justo Yauricasa  | U20191C054 |
 | Mancilla Ordaya, Eduardo Vicente | U202018894 |
-| Cisneros Tafur, Diego Rafael | U20221A715 |
+|   Cisneros Tafur, Diego Rafael   | U20221A715 |
 
 </div>
 
@@ -146,3 +150,11 @@ URL Project Report (Github): https://github.com/AgriSage/Informe
 - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+
+# **Capítulo I: Introducción**
+
+  1.1  Startup Profile.
+   
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+
+   **1.1.1. Descripción del startup.**
